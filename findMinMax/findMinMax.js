@@ -23,4 +23,5 @@ file.findMinMax(arr) {
 }
 	return newArr;
 	 }
+module.exports = file;
 	 
