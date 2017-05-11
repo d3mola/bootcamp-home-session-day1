@@ -52,3 +52,8 @@ function Phone(brand, year){
            };
         };
 }
+
+var Htc = new Phone('Andriod', 2017) {
+  Htc.frontFlash = true;
+}
+
